@@ -2,7 +2,7 @@
 
 Boilerplates for creating HTML based extensions for Adobe Creative Cloud applications.
 
-Those are (mostly) complete rewrite of the template used by *Extension Builder 3*.
+Those are (mostly) complete rewrites of the template used by *Extension Builder 3*.
 
 Two versions are available:
 
