@@ -9,7 +9,7 @@
             <!-- Uncomment Host tags according to the apps you want your panel to support -->
             <!-- Photoshop -->
             <Host Name="PHXS" Version="[14.0,2100.0]" />
-            <Host Name="PHSP" Version="[14.0,2100.0]]" />
+            <Host Name="PHSP" Version="[14.0,2100.0]" />
             <!-- Illustrator -->
             <!-- <Host Name="ILST" Version="[17.0,2100.0]]" /> -->
             <!-- InDesign -->
