@@ -1,24 +1,10 @@
-# CC Extension Boilerplate
-
-Boilerplates for creating HTML based extensions for Adobe Creative Cloud applications.
-
-Those are (mostly) complete rewrites of the template used by *Extension Builder 3*.
-
-Two versions are available:
-
-* *Basic*: only includes the minimum for extensions to work: an HTML file and the CSXS manifest, plus an empty css, `main.js` and `hostscript.jsx` *ExtendScript* files.
+# CC Extension Samples and Boilerplates (archived)
 
 
-* *Standard*: adds to *Basic* what a typical extension will need, including *jquery* support, *CSInterface* for *ExtendScript* communication, CC app theme management, and basic sample code to get started.
+###This repository is no longer active. Its content was moved to other repositories.
 
-###Which should I use?
+To start building your HTML extensions from a template, please check the [template section](https://github.com/davidderaedt/CC-EXT-SDK/tree/master/templates) of the [Creative Cloud Extensions SDK](https://github.com/davidderaedt/CC-EXT-SDK).
 
-If you're new to CC extension development, you should choose the standard one and study the code.
+If you're looking for samples, you should browse the [official CEP Samples repository](https://github.com/Adobe-CEP/Samples).
 
-Once you're familiar with it, you'll probably want to use the Basic one and customize it to your need.
-
-
-###How can I run the extension?
-
-You can use command line tools to deploy it, or use ready to use editor plugins, such as the *CC Ext. builder* for *Brackets* or *Extension Builder 3* for Eclipse.
 
